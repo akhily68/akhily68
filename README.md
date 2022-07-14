@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/akhily68"><img src="https://api.daily.dev/devcards/1accb38fca9a4d28a82f925774be3729.png?r=bgd" width="400" alt="KUMAR AKHIL's Dev Card"/></a>
+Hi there
 <!--
 **akhily68/akhily68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
